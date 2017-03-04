@@ -1,0 +1,91 @@
+﻿生成启动时间为 2015/3/11 9:16:13。
+     1>项目“E:\代码\C编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "图书管理系统.c"
+         图书管理系统.c
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(9): warning C4013: “malloc”未定义；假设外部返回 int
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(36): warning C4013: “realloc”未定义；假设外部返回 int
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(73): warning C4013: “exit”未定义；假设外部返回 int
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(100): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(126): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(140): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(165): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : 参见“fscanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(182): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(187): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(192): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(202): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(207): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(332): warning C4013: “strcmp”未定义；假设外部返回 int
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(325): warning C4101: “k”: 未引用的局部变量
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(354): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(362): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(374): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(387): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(400): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(450): warning C4013: “strcpy”未定义；假设外部返回 int
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(443): warning C4101: “i”: 未引用的局部变量
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(443): warning C4101: “j”: 未引用的局部变量
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(490): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(498): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(539): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(532): warning C4101: “i”: 未引用的局部变量
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(565): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(607): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(623): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(662): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(681): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(685): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(702): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\代码\c编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.c(694): warning C4101: “i”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\图书管理系统.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\图书管理系统.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\图书管理系统.lib" /MACHINE:X86 /SAFESEH ".\Debug\图书管理系统.obj"
+         图书管理系统.vcxproj -> E:\代码\C编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\.\Debug\图书管理系统.exe
+     1>已完成生成项目“E:\代码\C编程\1203  121110098曾勇华\121110098曾勇华-9.3文件的应用\图书管理系统.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.36

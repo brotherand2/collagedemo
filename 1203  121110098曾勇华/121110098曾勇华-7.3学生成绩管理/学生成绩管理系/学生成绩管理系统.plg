@@ -1,0 +1,116 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 学生成绩管理系统 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\曾朝阳\AppData\Local\Temp\RSP33D1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/学生成绩管理系统.pdb" /debug /machine:I386 /out:"Debug/学生成绩管理系统.exe" /pdbtype:sept 
+".\Debug\boot.obj"
+".\Debug\delet.obj"
+".\Debug\input.obj"
+".\Debug\insert.obj"
+".\Debug\main.obj"
+".\Debug\readstu.obj"
+".\Debug\realloc.obj"
+".\Debug\search.obj"
+".\Debug\search_boot.obj"
+".\Debug\search_name.obj"
+".\Debug\search_num.obj"
+".\Debug\search_score.obj"
+".\Debug\show.obj"
+".\Debug\show_boot.obj"
+".\Debug\sort_aver.obj"
+".\Debug\sort_name.obj"
+".\Debug\sort_num.obj"
+".\Debug\sort_total.obj"
+".\Debug\update.obj"
+".\Debug\update_boot.obj"
+".\Debug\writefile.obj"
+]
+Creating command line "link.exe @"C:\Users\曾朝阳\AppData\Local\Temp\RSP33D1.tmp""
+<h3>Output Window</h3>
+Linking...
+LINK : warning LNK4098: defaultlib "LIBCD" conflicts with use of other libs; use /NODEFAULTLIB:library
+update.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+update_boot.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+writefile.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+search_num.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+search_score.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+show_boot.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+sort_name.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+realloc.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+search.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+search_boot.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+search_name.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+boot.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+delet.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+input.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+insert.obj : error LNK2001: unresolved external symbol __RTC_CheckEsp
+update_boot.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+writefile.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+sort_name.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+sort_num.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+sort_total.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+update.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+search_num.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+search_score.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+show_boot.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+sort_aver.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+realloc.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+search.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+search_boot.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+search_name.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+boot.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+delet.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+input.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+insert.obj : error LNK2001: unresolved external symbol __RTC_InitBase
+update_boot.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+writefile.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+sort_name.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+sort_num.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+sort_total.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+update.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+search_num.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+search_score.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+show_boot.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+sort_aver.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+realloc.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+search.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+search_boot.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+search_name.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+boot.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+delet.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+input.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+insert.obj : error LNK2001: unresolved external symbol __RTC_Shutdown
+search_name.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+search_num.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+search_score.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+update.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+delet.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+input.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+insert.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+search.obj : error LNK2001: unresolved external symbol @_RTC_CheckStackVars@8
+update.obj : error LNK2001: unresolved external symbol @__security_check_cookie@4
+delet.obj : error LNK2001: unresolved external symbol @__security_check_cookie@4
+insert.obj : error LNK2001: unresolved external symbol @__security_check_cookie@4
+search_name.obj : error LNK2001: unresolved external symbol @__security_check_cookie@4
+search_score.obj : error LNK2001: unresolved external symbol @__security_check_cookie@4
+update.obj : error LNK2001: unresolved external symbol ___security_cookie
+delet.obj : error LNK2001: unresolved external symbol ___security_cookie
+insert.obj : error LNK2001: unresolved external symbol ___security_cookie
+search_name.obj : error LNK2001: unresolved external symbol ___security_cookie
+search_score.obj : error LNK2001: unresolved external symbol ___security_cookie
+Debug/学生成绩管理系统.exe : fatal error LNK1120: 6 unresolved externals
+执行 link.exe 时出错.
+
+
+
+<h3>Results</h3>
+学生成绩管理系统.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

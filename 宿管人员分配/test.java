@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.Scanner;
+import java.util.Random;
+
+class test
+{
+
+	public static void main(String args[])
+	{
+            System.out.printf("%-10s%-10s%-10s\n","人","之初","性本善");
+            System.out.printf("%-10s%-10s%-10s\n","大犬","三羊古","石厂");
+            System.out.printf("%10s%10s%10s\n","大犬","三羊古","石厂");
+
+	}
+}
